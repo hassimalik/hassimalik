@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently learning **Java Script Advanced**
 
-- 👯 I learnt **HTML 5 , CSS , OOPS , Java**
+- 👯 I learnt **HTML 5 , CSS 3, JavaScript, Bootstrap , , React , Tailwind CSS 3, Git, Github**
 
 - All of my projects are available at [https://www.linkedin.com/in/hassaan-aslam-3b0798290/](https://www.linkedin.com/in/hassaan-aslam-3b0798290/)
 
