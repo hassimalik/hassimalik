@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassimalik&label=Profile%20views&color=0e75b6&style=flat" alt="hassimalik" /> </p>
 
-- 🔭 I’m currently learning **Java Script Advanced**
+- 🔭 I’m currently learning **React Advanced**
 
 - 👯 I learnt **HTML 5 , CSS 3, JavaScript, Bootstrap , , React , Tailwind CSS 3, Git, Github**
 
 - All of my projects are available at [https://www.linkedin.com/in/hassaan-aslam-3b0798290/](https://www.linkedin.com/in/hassaan-aslam-3b0798290/)
 
-- 📝 I also have a youtube channel [https://www.youtube.com/channel/UC58mP_mQOHOAPpTn-mcxYHg](https://www.youtube.com/channel/UC58mP_mQOHOAPpTn-mcxYHg)
+- 📝 I also have a YouTube channel [https://www.youtube.com/channel/UC58mP_mQOHOAPpTn-mcxYHg](https://www.youtube.com/channel/UC58mP_mQOHOAPpTn-mcxYHg)
 
 - ⚡ Fun fact **I think i am funny 😊**
 
