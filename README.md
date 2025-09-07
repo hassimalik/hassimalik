@@ -1,31 +1,31 @@
-<h1 align="center">Hi 👋, I'm Hassaan Aslam</h1>
-<h3 align="center">A passionate student learning Full Stack developing from Pakistan</h3>
-<img align="right" alt="coding-picture" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"
+# 💫 About Me:
+👋 Hi, I’m Hassaan Aslam<br><br>💻 Passionate Frontend Developer (React | Tailwind | GSAP)<br><br>📚 Currently pursuing Bachelor’s in Information Technology (IT)<br><br>🌱 Learning & exploring JavaScript | React | Machine Learning<br><br>🎯 Goal: To become a Pro Developer & Problem Solver<br><br>🧠 Love for Coding, Creativity, and Continuous Growth<br><br>🖤 I’m an introvert, who prefers deep work over outings<br><br>⚡ Fun fact: I overthink a lot but turn it into clean code<br><br>🌍 Open to collaborations & innovative projects.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hassimalik&label=Profile%20views&color=0e75b6&style=flat" alt="hassimalik" /> </p>
 
-- 🔭 I’m currently learning **React Advanced**
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codingthirst) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hassaan-aslam-3b0798290/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codingthirst) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hassaanaslam06@gmail.com) 
 
-- 👯 I learnt **HTML 5 , CSS 3, JavaScript, Bootstrap , , React , Tailwind CSS 3, Git, Github**
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hassimalik&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=hassimalik&theme=solarized-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hassimalik&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- All of my projects are available at [https://www.linkedin.com/in/hassaan-aslam-3b0798290/](https://www.linkedin.com/in/hassaan-aslam-3b0798290/)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=hassimalik&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
-- 📝 I also have a YouTube channel [https://www.youtube.com/channel/UC58mP_mQOHOAPpTn-mcxYHg](https://www.youtube.com/channel/UC58mP_mQOHOAPpTn-mcxYHg)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-- ⚡ Fun fact **I think i am funny 😊**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=hassimalik&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/hassaanaslam0321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hassaanaslam0321" height="30" width="40" /></a>
-<a href="https://instagram.com/has_saan_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="has_saan_12" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/coding thirst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coding thirst" height="30" width="40" /></a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=hassimalik&icon=6&color=6)](https://visitcount.itsvg.in)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+  ## 💰 You can help me by Donating
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/hassaanaslam) 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassimalik&show_icons=true&locale=en&layout=compact" alt="hassimalik" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassimalik&show_icons=true&locale=en" alt="hassimalik" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassimalik&" alt="hassimalik" /></p>
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
