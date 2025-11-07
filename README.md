@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Hassaan Aslam<br><br>💻 Passionate Frontend Developer (React | Tailwind | GSAP)<br><br>📚 Currently pursuing Bachelor’s in Information Technology (IT)<br><br>🌱 Learning & exploring JavaScript | React | Machine Learning<br><br>🎯 Goal: To become a Pro Developer & Problem Solver<br><br>🧠 Love for Coding, Creativity, and Continuous Growth<br><br>🖤 I’m an introvert, who prefers deep work over outings<br><br>⚡ Fun fact: I overthink a lot but turn it into clean code<br><br>🌍 Open to collaborations & innovative projects.
+👋 Hi, I’m Hassaan Aslam<br><br>💻 Passionate Frontend Developer (React | Next | Tailwind | ShadCn | GSAP)<br><br>📚 Currently pursuing Bachelor’s in Information Technology (IT)<br><br>🌱 Learning & exploring JavaScript | React | Machine Learning<br><br>🎯 Goal: To become a Pro Developer & Problem Solver<br><br>🧠 Love for Coding, Creativity, and Continuous Growth<br><br>🖤 I’m an introvert, who prefers deep work over outings<br><br>⚡ Fun fact: I overthink a lot but turn it into clean code<br><br>🌍 Open to collaborations & innovative projects.
 
 
 ## 🌐 Socials:
