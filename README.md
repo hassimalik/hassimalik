@@ -5,16 +5,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassimalik&theme=" alt="hassimalik" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js**
-- 💬 Ask me about **React, Next.js , GSAP , Tailwind**
-- 📫 How to reach me **hassaanaslam0321@gmail.com**
-- 👨‍💻 All of my projects are available at **https://hassaan-aslam-7gx765v.gamma.site/**
+- 🌱 I’m currently learning **Express.js**
+- 💬 Ask me about **React, Next.js , GSAP , Tailwind , Node.js**
+- 📫 How to reach me **hassaanaslam06@gmail.com**
+- 👨‍💻 All of my projects are available at **https://hawebsolutions.vercel.app/**
 - 📄 Know about my experiences **https://drive.google.com/file/d/1jcrpD9T15HYXsXDzv-OkBUvf1_n2Bij8/view?usp=drive_link**
 
 <div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/hassaan-aslam-3b0798290/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/hassimalik" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/https://www.youtube.com/redirect?event=channel_header&redir_token=QUFFLUhqbEM1Z1lnSk9aRUhYTE9lZ1ViYTNwQkZXX05DZ3xBQ3Jtc0ttUm1hOEdzcFRpYWVsTkxCcWlfQk1lNjRiQmY2UjhCR3ZOX3hKdTlRRl9Ja2kwMmN4R2QtMUdUekY0TlNoQ0VyMlVZblJyVHFkR3NNS2NCY1JvdEVOLW5yakMyenNESzhGamlIZ1VjOFZpcVRfODVXWQ&q=https%3A%2F%2Fwww.instagram.com%2Fcodingthirst%3Figsh%3DMzNlNGNkZWQ4Mg%3D%3D" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:hassaanaslam0321@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:hassaanaslam06@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hassaan-aslam-3b0798290/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hassaan-aslam-3b0798290/" height="30" width="40" /></a><a href="https://www.youtube.com/c/https://www.youtube.com/@codingthirst" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="https://www.youtube.com/@codingthirst" height="30" width="40" /></a><a href="https://instagram.com/https://www.youtube.com/redirect?event=channel_header&redir_token=QUFFLUhqbEM1Z1lnSk9aRUhYTE9lZ1ViYTNwQkZXX05DZ3xBQ3Jtc0ttUm1hOEdzcFRpYWVsTkxCcWlfQk1lNjRiQmY2UjhCR3ZOX3hKdTlRRl9Ja2kwMmN4R2QtMUdUekY0TlNoQ0VyMlVZblJyVHFkR3NNS2NCY1JvdEVOLW5yakMyenNESzhGamlIZ1VjOFZpcVRfODVXWQ&q=https%3A%2F%2Fwww.instagram.com%2Fcodingthirst%3Figsh%3DMzNlNGNkZWQ4Mg%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="https://www.youtube.com/redirect?event=channel_header&redir_token=QUFFLUhqbEM1Z1lnSk9aRUhYTE9lZ1ViYTNwQkZXX05DZ3xBQ3Jtc0ttUm1hOEdzcFRpYWVsTkxCcWlfQk1lNjRiQmY2UjhCR3ZOX3hKdTlRRl9Ja2kwMmN4R2QtMUdUekY0TlNoQ0VyMlVZblJyVHFkR3NNS2NCY1JvdEVOLW5yakMyenNESzhGamlIZ1VjOFZpcVRfODVXWQ&q=https%3A%2F%2Fwww.instagram.com%2Fcodingthirst%3Figsh%3DMzNlNGNkZWQ4Mg%3D%3D" height="30" width="40" /></a></p>
