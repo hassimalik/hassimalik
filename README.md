@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassimalik&theme=" alt="hassimalik" /></a> </p>
 
-- 🌱 I’m currently learning **Express.js**
-- 💬 Ask me about **React, Next.js , GSAP , Tailwind , Node.js**
+- 🌱 I’m currently seeking for **Mern Stack Developer** role.
+- 💬 Ask me about **React, Next.js , GSAP , Tailwind , Node.js, Express.js and MongoDB.**
 - 📫 How to reach me **hassaanaslam06@gmail.com**
 - 👨‍💻 All of my projects are available at **https://hawebsolutions.vercel.app/**
 - 📄 Know about my experiences **https://drive.google.com/file/d/1jcrpD9T15HYXsXDzv-OkBUvf1_n2Bij8/view?usp=drive_link**
